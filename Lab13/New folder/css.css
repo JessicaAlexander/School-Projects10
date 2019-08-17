@@ -1,0 +1,12 @@
+tr { background-color: rgb(0, 183, 255); }
+td { background-color: rgba(114, 243, 237, 0.486); }
+table {background: #cc00ff }
+th { font-family: sans-serif;}
+th {font-style: italic;}
+th {font-style: oblique;}
+th{  font-weight: bold;}
+td { font-family: sans-serif;}
+td {font-style: italic;}
+td {font-style: oblique;}
+td{  font-weight: bold;}
+table {border-color: rgb(139, 0, 0);} 
